@@ -1,0 +1,23 @@
+# KiCad temporary and backup files
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.bak
+*-bak
+*.kicad_prl
+_autosave-*
+*.tmp
+*.lck
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Arduino / PlatformIO / build artifacts
+build/
+.pio/
+*.hex
+*.bin
+*.elf
