@@ -25,72 +25,51 @@
 
 October 7–9: My First Steps into KiCad!
 
-Since this is Starbie Week 1, a project given by Hack Club, I decided to step out of my usual technical work and try something different: writing a journal about my progress!
+Since this is Starbie Week 1 a project given by Hack Club I decided to leave my technical tasks and try something new: writing a journal about my progress!
 
 October 7: Getting Started
 
-I started by learning about Starbie and reading the complete guide provided on GitHub. I also downloaded all the required files and software, including KiCad and the starter kit provided by Hack Club.
-
-After going through the guide, I started thinking about what kind of design I could create and how I could make it more compact and efficient.
-
-One thing I should mention is that I had never used KiCad before! So, I spent around two hours watching YouTube tutorials and another hour reading the guide and understanding the requirements. By the end of the day, I had a basic understanding of what I needed to do and was ready to start designing.
+I began by learning about Starbie and reading the full guide posted on GitHub. I also downloaded every required file and software such as KiCad and the starter kit from Hack Club.
+![WhatsApp Image 2026-10-09 at 9.05.42 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/679e674abbb7d68102a344306cf6ee2329b288439bead2383352dffda6758d35.jpg)
+After reading the guide I began to consider what kind of design I could build and how I could make it smaller and more efficient.
+![WhatsApp Image 2026-10-09 at 9.04.37 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/73af5e207a105d6495679d5b4eba9e6bf7872cac61a808af29736c1d2fcc0f15.jpg)
+One important point is that I had never used KiCad before. Therefore I spent two hours watching YouTube tutorials and another hour reviewing the guide to grasp the requirements. By day’s end I had an understanding of what I must do and was prepared to begin designing.
+![WhatsApp Image 2026-10-09 at 8.58.27 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/e5e7c4e1e99f834d37afd9b2fe1354b56c7295d97287d8126443e8a3d07eaa94.jpg)
 
 October 8: Creating My First PCB Schematic
 
-Finally, it was time to get my hands dirty!
+Finally it was time to start working.
 
-I started by setting up the preferences in KiCad, adding all the required components, and creating a separate folder on my PC for Hack Club Week 1.
+I began by configuring preferences in KiCad adding every needed component and creating a folder on my PC for Hack Club Week 1.
+![Screenshot 2026-10-09 201129](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/75a3c9d50fc667d21a7347ec7ecfd90932ecc7dde56fc1f7c8d13b1053fed84d.jpg)
 
-I then started working on the schematic. I tried two different approaches: one using direct wire connections and another using net labels. Unfortunately, the net-label approach wasn't very convenient for me, as I kept running into errors. So, I decided to stick with direct wire connections, which I found easier to understand and manage.
+I then started building the schematic. I tested two methods: one with wire connections and another with net labels. The net-label method was not convenient for me because I kept encountering errors. Consequently I chose to use direct wire connections, which I found easier to understand and manage.
 
-After completing the schematic, I annotated all the components and moved on to converting it into a PCB layout using KiCad.
-
-Next, I created the PCB outline and started arranging the components within the board's boundaries. Since I was still new to the software, this process took around four hours. It was a bit challenging, but I was slowly getting the hang of it!
+After finishing the schematic I annotated every component. Then converted it into a PCB layout with KiCad.
+![Screenshot 2026-10-09 201244](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/2820f7ef1e41d77b39d07a5f0b20126afa87ab5715446dd1084b0c8f5c582f40.jpg)
+Next I drew the PCB outline. Began placing components inside the board limits. Because I was still new to the software this took four hours. It was somewhat challenging. I was gradually learning.
 
 October 9: Fighting the DRC Errors!
 
-Today, I started working around 6 PM, and my main goal was to fix the errors reported by the Design Rules Checker (DRC).
+![Screenshot 2026-10-09 201305](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/c5bd024c7ad3fc70592ea5a9df2af8fe8e62864edb73b137ce3206def45bf93d.jpg)
+Today I began working at 6 PM and my main goal was to fix the errors reported by the Design Rules Checker or DRC.
+![Screenshot 2026-10-09 210110](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/97ac32fa34b73f98439e532acda6fdf0ee7e61b4b68eafeee60bb75ddf361cd8.jpg)
+Truthfully this was one of the parts. I did not know all the circuit design rules so figuring out why certain errors appeared required a lot of effort.
 
-Honestly, this was one of the most challenging parts of the process. I wasn't familiar with all the circuit design rules, so understanding why certain errors were appearing took quite a bit of effort.
+At first I had 68 DRC issues. After researching the errors and troubleshooting with Google and YouTube I reduced them to ten!
 
-Initially, I had around 68 DRC issues. After spending time researching the errors and troubleshooting with the help of Google and YouTube, I managed to reduce them to just 10!
+I kept working on the remaining problems until two errors remained. Luckily the guide says those two errors are acceptable.
 
-I continued working on the remaining issues until I reached the final two errors. Fortunately, according to the guide, those specific two errors were acceptable.
+![Screenshot 2026-10-09 210645](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/760a2174a581ce3018b83db19078ba2c0db77069fea4d3ff59e6614427639edb.jpg)
+Success! The PCB is now finished!
 
-Bingo! The PCB is finally done!
+I kept the design simple for now. I plan to add some cool pictures to the circuit board as an optional touch. Why not make it look a little more interesting!!
 
-I kept the design simple for now, but I'm also planning to add some cool pictures to the circuit board as an optional touch. Why not make it look a little more interesting?
-
-This entire process taught me a lot about KiCad, PCB design, schematics, component placement, and design rule checking. It was definitely tedious at times, especially because I was learning everything from scratch, but solving each problem felt rewarding.
-
-I managed to work through the challenges by referring to online resources and experimenting with different approaches. I'm glad I didn't give up when things got confusing!
-
-What's next?
-
-Now, it's time to move on to the software side of Starbie. My next step is to work on the code according to the provided guide. I might start tonight; otherwise, I'll most probably continue tomorrow.
-
-Hopefully, I can maintain this pace, keep learning new things, and turn this into a great project. This is just Week 1, and I'm excited to see what comes next!
+Total time spent so far: Approximately 10 hours.
 
 ![Screenshot 2026-10-09 201027.png](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/41b9118fb233423aae9d4e0ca447fe98a2077ebff08bdbd0b411aa4812899d93.jpg)
 
 ![Screenshot 2026-10-09 201053](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/11b864b931fa36602338bffb48bd1d96bdc9641410e6ea756f8c124789325038.jpg)
-
-![Screenshot 2026-10-09 201129](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/75a3c9d50fc667d21a7347ec7ecfd90932ecc7dde56fc1f7c8d13b1053fed84d.jpg)
-
-![Screenshot 2026-10-09 201244](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/2820f7ef1e41d77b39d07a5f0b20126afa87ab5715446dd1084b0c8f5c582f40.jpg)
-
-![Screenshot 2026-10-09 201305](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/c5bd024c7ad3fc70592ea5a9df2af8fe8e62864edb73b137ce3206def45bf93d.jpg)
-
-![WhatsApp Image 2026-10-09 at 8.58.27 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/e5e7c4e1e99f834d37afd9b2fe1354b56c7295d97287d8126443e8a3d07eaa94.jpg)
-Total time spent so far: Approximately 10 hours.
-
-![Screenshot 2026-10-09 210110](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/97ac32fa34b73f98439e532acda6fdf0ee7e61b4b68eafeee60bb75ddf361cd8.jpg)
-
-![WhatsApp Image 2026-10-09 at 9.04.37 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/73af5e207a105d6495679d5b4eba9e6bf7872cac61a808af29736c1d2fcc0f15.jpg)
-
-![WhatsApp Image 2026-10-09 at 9.05.42 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/679e674abbb7d68102a344306cf6ee2329b288439bead2383352dffda6758d35.jpg)
-
-![Screenshot 2026-10-09 210645](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/760a2174a581ce3018b83db19078ba2c0db77069fea4d3ff59e6614427639edb.jpg)
 
 ### 2026-10-10 – October 10: Gerber Files, GitHub Cleanup, and Bringing Starbie to Life!
 
