@@ -4,5 +4,5 @@ OLED Display I2C,1,circuitkar,$1.47,$1.47,https://www.circuitkar.in/products/ole
 mpu6050,1,electropi,$2.04,$2.04,https://www.electropi.in/mpu6050-triple-axis-gyro-accelerometer-module?search=mpu605
 dht11,1,rubu,$0.63,$0.63,https://robu.in/product/dht11-digital-relative-humidity-temperature-sensor-module/
 Pushbutton Switches - Board Mount,2,mouser,$0.75,$1.50,https://www.mouser.in/en/ProductDetail/540-MX2A-E1NB
-resistors 10k,10,robu,$0.00,$0.00,https://robu.in/product/mf25-10k-multicomp-pro-through-hole-resistor-10-kohm-250-mw-%c2%b1-1-axial-leaded-250-v/
+resistors 10k,10,robu,$0.01,$0.10,https://robu.in/product/mf25-10k-multicomp-pro-through-hole-resistor-10-kohm-250-mw-%c2%b1-1-axial-leaded-250-v/
 Estimated total shipping,1,,,$0.00,
