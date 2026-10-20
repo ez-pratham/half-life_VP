@@ -3,7 +3,7 @@
 Starbie is a digital pet designed in the shape of a star with a microcontroller, switches, and sensors.
 
 ![Starbie 3D Render](images/render_pcb_3d.png)
-
+![Starbie Top View](images/render_pcb_top.png)
 ---
 
 ## What is it?
