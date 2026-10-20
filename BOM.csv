@@ -1,5 +1,4 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-XIAO ESP32-C6 microcontroller,1,UrbanProto,$8.20,$8.20,https://www.urbanproto.com/part/102010636
 "0.96-inch OLED display, SSD1306, 128×64, I²C",1,Circuitkar,$1.50,$1.50,https://www.urbanproto.com/part/102010636
 MPU6050,1,ElectroPi,$1.60,$1.60,https://www.electropi.in/
 DHT11,1,Robu.in,$0.70,$0.70,https://robu.in/
