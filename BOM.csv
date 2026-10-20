@@ -1,6 +1,6 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 studio XIAO ESP32C,1,urbanproto,$7.77,$7.77,https://www.urbanproto.com/part/102010636
-OLED Display I2C,1,circuitkar,$0.00,$0.00,https://www.circuitkar.in/products/oled-096-i2c
+OLED Display I2C,1,circuitkar,$1.47,$1.47,https://www.circuitkar.in/products/oled-096-i2c
 mpu6050,1,electropi,$0.00,$0.00,https://www.electropi.in/mpu6050-triple-axis-gyro-accelerometer-module?search=mpu605
 dht11,1,rubu,$0.00,$0.00,https://robu.in/product/dht11-digital-relative-humidity-temperature-sensor-module/
 Pushbutton Switches - Board Mount,2,mouser,$0.00,$0.00,https://www.mouser.in/en/ProductDetail/540-MX2A-E1NB
