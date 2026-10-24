@@ -30,46 +30,46 @@ Since this is Starbie Week 1 a project given by Hack Club I decided to leave my 
 October 7: Getting Started
 
 I began by learning about Starbie and reading the full guide posted on GitHub. I also downloaded every required file and software such as KiCad and the starter kit from Hack Club.
-![WhatsApp Image 2026-10-09 at 9.05.42 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/679e674abbb7d68102a344306cf6ee2329b288439bead2383352dffda6758d35.jpg)
+![WhatsApp Image 2026-10-09 at 9.05.42 PM](https://halflife.hackclub-assets.com/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/679e674abbb7d68102a344306cf6ee2329b288439bead2383352dffda6758d35.jpg)
 After reading the guide I began to consider what kind of design I could build and how I could make it smaller and more efficient.
-![WhatsApp Image 2026-10-09 at 9.04.37 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/73af5e207a105d6495679d5b4eba9e6bf7872cac61a808af29736c1d2fcc0f15.jpg)
+![WhatsApp Image 2026-10-09 at 9.04.37 PM](https://halflife.hackclub-assets.com/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/73af5e207a105d6495679d5b4eba9e6bf7872cac61a808af29736c1d2fcc0f15.jpg)
 One important point is that I had never used KiCad before. Therefore I spent two hours watching YouTube tutorials and another hour reviewing the guide to grasp the requirements. By day’s end I had an understanding of what I must do and was prepared to begin designing.
-![WhatsApp Image 2026-10-09 at 8.58.27 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/e5e7c4e1e99f834d37afd9b2fe1354b56c7295d97287d8126443e8a3d07eaa94.jpg)
+![WhatsApp Image 2026-10-09 at 8.58.27 PM](https://halflife.hackclub-assets.com/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/e5e7c4e1e99f834d37afd9b2fe1354b56c7295d97287d8126443e8a3d07eaa94.jpg)
 
 October 8: Creating My First PCB Schematic
 
 Finally it was time to start working.
 
 I began by configuring preferences in KiCad adding every needed component and creating a folder on my PC for Hack Club Week 1.
-![Screenshot 2026-10-09 201129](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/75a3c9d50fc667d21a7347ec7ecfd90932ecc7dde56fc1f7c8d13b1053fed84d.jpg)
+![Screenshot 2026-10-09 201129](https://halflife.hackclub-assets.com/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/75a3c9d50fc667d21a7347ec7ecfd90932ecc7dde56fc1f7c8d13b1053fed84d.jpg)
 
 I then started building the schematic. I tested two methods: one with wire connections and another with net labels. The net-label method was not convenient for me because I kept encountering errors. Consequently I chose to use direct wire connections, which I found easier to understand and manage.
 
 After finishing the schematic I annotated every component. Then converted it into a PCB layout with KiCad.
-![Screenshot 2026-10-09 201244](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/2820f7ef1e41d77b39d07a5f0b20126afa87ab5715446dd1084b0c8f5c582f40.jpg)
+![Screenshot 2026-10-09 201244](https://halflife.hackclub-assets.com/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/2820f7ef1e41d77b39d07a5f0b20126afa87ab5715446dd1084b0c8f5c582f40.jpg)
 Next I drew the PCB outline. Began placing components inside the board limits. Because I was still new to the software this took four hours. It was somewhat challenging. I was gradually learning.
 
 October 9: Fighting the DRC Errors!
 
-![Screenshot 2026-10-09 201305](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/c5bd024c7ad3fc70592ea5a9df2af8fe8e62864edb73b137ce3206def45bf93d.jpg)
+![Screenshot 2026-10-09 201305](https://halflife.hackclub-assets.com/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/c5bd024c7ad3fc70592ea5a9df2af8fe8e62864edb73b137ce3206def45bf93d.jpg)
 Today I began working at 6 PM and my main goal was to fix the errors reported by the Design Rules Checker or DRC.
-![Screenshot 2026-10-09 210110](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/97ac32fa34b73f98439e532acda6fdf0ee7e61b4b68eafeee60bb75ddf361cd8.jpg)
+![Screenshot 2026-10-09 210110](https://halflife.hackclub-assets.com/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/97ac32fa34b73f98439e532acda6fdf0ee7e61b4b68eafeee60bb75ddf361cd8.jpg)
 Truthfully this was one of the parts. I did not know all the circuit design rules so figuring out why certain errors appeared required a lot of effort.
 
 At first I had 68 DRC issues. After researching the errors and troubleshooting with Google and YouTube I reduced them to ten!
 
 I kept working on the remaining problems until two errors remained. Luckily the guide says those two errors are acceptable.
 
-![Screenshot 2026-10-09 210645](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/760a2174a581ce3018b83db19078ba2c0db77069fea4d3ff59e6614427639edb.jpg)
+![Screenshot 2026-10-09 210645](https://halflife.hackclub-assets.com/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/760a2174a581ce3018b83db19078ba2c0db77069fea4d3ff59e6614427639edb.jpg)
 Success! The PCB is now finished!
 
 I kept the design simple for now. I plan to add some cool pictures to the circuit board as an optional touch. Why not make it look a little more interesting!!
 
 Total time spent so far: Approximately 10 hours.
 
-![Screenshot 2026-10-09 201027.png](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/41b9118fb233423aae9d4e0ca447fe98a2077ebff08bdbd0b411aa4812899d93.jpg)
+![Screenshot 2026-10-09 201027.png](https://halflife.hackclub-assets.com/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/41b9118fb233423aae9d4e0ca447fe98a2077ebff08bdbd0b411aa4812899d93.jpg)
 
-![Screenshot 2026-10-09 201053](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/11b864b931fa36602338bffb48bd1d96bdc9641410e6ea756f8c124789325038.jpg)
+![Screenshot 2026-10-09 201053](https://halflife.hackclub-assets.com/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/11b864b931fa36602338bffb48bd1d96bdc9641410e6ea756f8c124789325038.jpg)
 
 ### 2026-10-10 – October 10: Gerber Files, GitHub Cleanup and Bringing Starbie to Life!
 
@@ -80,17 +80,17 @@ October 10: Gerber Files, GitHub Cleanup and Bringing Starbie to Life!
 Today I focused on moving Starbie. After working on the PCB design I prepared the Gerber files cleaned up the GitHub repository and began working on the firmware.
 
 First I spent an hour learning about Gerber files. I watched a YouTube tutorial that showed how PCB designs become Gerber files. These files are used by manufacturers to make the circuit board. After I understood the steps I generated the Gerber files for the PCB.
-![WhatsApp Image 2026-10-11 at 1.11.40 AM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/1945f42696e4820bc20c6103137031918fd2d5cdb666e120f1991f77c0f12e36.jpg)
+![WhatsApp Image 2026-10-11 at 1.11.40 AM](https://halflife.hackclub-assets.com/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/1945f42696e4820bc20c6103137031918fd2d5cdb666e120f1991f77c0f12e36.jpg)
 Next I uploaded all files to GitHub repository. After reviewing the requirements and seeing how everything was arranged I made the needed changes.
 
-![WhatsApp Image 2026-10-11 at 1.14.57 AM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/b06acb6b9c7584b8daa22ec3a98e12c0fdcecc332e2632292af6e073cff0ba60.jpg)
+![WhatsApp Image 2026-10-11 at 1.14.57 AM](https://halflife.hackclub-assets.com/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/b06acb6b9c7584b8daa22ec3a98e12c0fdcecc332e2632292af6e073cff0ba60.jpg)
 I added a README, photos and other required files making sure everything was in order and met the Hack Club Highway to Half-Life rules. This took two hours but it made the repo cleaner and easier to read.
-![WhatsApp Image 2026-10-11 at 1.08.40 AM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/fb7de13785b429eba7e9023a2e208ee5a12c7259cb3aba1525a68cd5190ded38.jpg)
+![WhatsApp Image 2026-10-11 at 1.08.40 AM](https://halflife.hackclub-assets.com/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/fb7de13785b429eba7e9023a2e208ee5a12c7259cb3aba1525a68cd5190ded38.jpg)
 Now came the fun part: the firmware.
 
 I spent one to two hours on the firmware, which's the code that will run on Starbies microcontroller. I wanted the device to be interactive of just showing simple data.
 
-![WhatsApp Image 2026-10-11 at 1.13.55 AM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/b9a49e13b8c3f6b5041f01859b703fc136ca20906fd0e844fc73fca0f1380e02.jpg)
+![WhatsApp Image 2026-10-11 at 1.13.55 AM](https://halflife.hackclub-assets.com/sessions/r1nSTxCFQ2zE35VmMrOpNVe2xLvWebY1/b9a49e13b8c3f6b5041f01859b703fc136ca20906fd0e844fc73fca0f1380e02.jpg)
 Here is what I worked on:
 
 OLED splash screen, Temperature conversion, Motion interaction
