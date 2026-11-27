@@ -1,7 +1,0 @@
-"Item","Reference","Value","Quantity","Footprint","Description"
-"1","U1","XIAO-ESP32-C3","1","Imported Parts:XIAO-ESP32-C6-DIP","Seeed Studio XIAO ESP32-C3 Microcontroller Board"
-"2","U2","DHT11","1","Sensor:Aosong_DHT11_5.5x12.0_P2.54mm","DHT11 Digital Temperature & Humidity Sensor"
-"3","J1","Conn_01x04_Pin (OLED)","1","Imported Parts:Display_128x64_096_I2C","0.96 inch I2C OLED Display 128x64 (SSD1306)"
-"4","J2","Conn_01x08_Pin (MPU6050)","1","Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical","GY-521 MPU-6050 6-Axis Accelerometer & Gyroscope Module"
-"5","SW1, SW2","Cherry MX Switch","2","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB","Cherry MX Mechanical Push Switch with DSA Keycap"
-"6","R1","10K","1","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal","10K Ohm 1/4W Resistor (Pull-up)"
